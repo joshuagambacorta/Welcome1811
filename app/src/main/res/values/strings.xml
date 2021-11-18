@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Titolo applicazione</string>
+    <string name="lbl_init">Questo verrà inviato</string>
+    <string name="lbl_finish">Guardare il toast</string>
+    <string name="btn_reset">Reset</string>
+    <string name="btn_test">Test</string>
+    <string name="btn_play">Play</string>
+</resources>
